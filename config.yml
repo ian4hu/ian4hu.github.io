@@ -1,0 +1,12 @@
+baseURL: http://ian4hu.github.io/
+languageCode: zh
+title: "ian4hu's Space"
+theme: ananke
+
+menu:
+  main:
+  - identifier: about
+    name: About Me
+    pre: <i class='fa fa-heart'></i>
+    url: /about-me.html
+    weight: -110
