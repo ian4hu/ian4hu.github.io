@@ -8,5 +8,5 @@ menu:
   - identifier: about
     name: About Me
     pre: <i class='fa fa-heart'></i>
-    url: /about-me.html
+    url: /about/
     weight: -110
